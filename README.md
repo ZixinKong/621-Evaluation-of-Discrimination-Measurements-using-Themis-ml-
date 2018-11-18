@@ -4,7 +4,7 @@ Extended and used “themis-ml”, an existing open-source fairness-aware machin
 In detail, we implement three discrimination measures – impact ratio, elift ratio and odds ratio, and we also use them as tools to measure and mitigate discriminatory patterns in machine learning algorithms. 
 
 
-1.	Approach
+- Approach
 There are two parts in our project:
 1) We implement three measurements of discrimination: impact ratio, elift ratio and odds ratio – mathematical formalization
 2) We measure the discriminatory score in machine learning algorithms using them – the practical way to apply
